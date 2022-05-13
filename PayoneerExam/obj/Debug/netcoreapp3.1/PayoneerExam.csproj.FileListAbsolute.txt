@@ -1,0 +1,14 @@
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\bin\Debug\netcoreapp3.1\PayoneerExam.exe
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\bin\Debug\netcoreapp3.1\PayoneerExam.deps.json
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\bin\Debug\netcoreapp3.1\PayoneerExam.runtimeconfig.json
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\bin\Debug\netcoreapp3.1\PayoneerExam.runtimeconfig.dev.json
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\bin\Debug\netcoreapp3.1\PayoneerExam.dll
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\bin\Debug\netcoreapp3.1\PayoneerExam.pdb
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\obj\Debug\netcoreapp3.1\PayoneerExam.csproj.AssemblyReference.cache
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\obj\Debug\netcoreapp3.1\PayoneerExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\obj\Debug\netcoreapp3.1\PayoneerExam.AssemblyInfoInputs.cache
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\obj\Debug\netcoreapp3.1\PayoneerExam.AssemblyInfo.cs
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\obj\Debug\netcoreapp3.1\PayoneerExam.csproj.CoreCompileInputs.cache
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\obj\Debug\netcoreapp3.1\PayoneerExam.dll
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\obj\Debug\netcoreapp3.1\PayoneerExam.pdb
+C:\Users\marcianm\source\repos\PayoneerExam\PayoneerExam\obj\Debug\netcoreapp3.1\PayoneerExam.genruntimeconfig.cache
