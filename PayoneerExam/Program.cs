@@ -47,8 +47,9 @@ namespace PayoneerExam
                 Console.WriteLine("the average is: " + avg);
             }
 
-            //Q3
-            //1
+            //Q3 - In order to prevent Comilation errors, putting this section in comment
+            /*
+            //1            
             SELECT Players.PlayerId, Players.PlayerName, Game.Score
             FROM Players
             LEFT JOIN Game ON Players.PlayerId = Game.PlayerId
@@ -75,7 +76,7 @@ namespace PayoneerExam
                 group by PlayerId)
             group by PlayerId
             order by PlayerId asc
-
+            */
 
 
         }
