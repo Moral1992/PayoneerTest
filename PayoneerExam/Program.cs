@@ -8,6 +8,7 @@ namespace PayoneerExam
     {
         static void Main(string[] args)
         {
+            //////Q1
                 int[] arrayOfRates = { 5, 4, 9, 2, 8, 7, 7, 9, 6, 8 };
                 int result = Q1.getMaxRevenue(arrayOfRates);
                 Console.WriteLine("The max revenue is: " + result);
